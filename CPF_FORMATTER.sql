@@ -1,1 +1,0 @@
-select f_cm_formata_cpf('031') from dual;
