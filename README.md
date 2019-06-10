@@ -12,3 +12,7 @@ Then you can test with the command below:
 <code> select CPF_FORMATTER('12345678911') as CPF from dual; </code>
 </pre>
 
+Output:
+<pre>
+<code> 123.456.789-11 </code>
+</pre> 
