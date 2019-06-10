@@ -1,4 +1,12 @@
 # Oracle Function CPF Formatter using RegExp
-CPF Formatter Function using RegExp (Regular Expression)
 
 Simple function that format CPF using Regexp.
+
+# How to use
+
+Run the CPF_FORMATTER.sql file to create the function
+
+Then you can test with the command below:
+
+select CPF_FORMATTER('12345678911') as CPF from dual;
+
