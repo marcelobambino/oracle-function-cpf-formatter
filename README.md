@@ -4,7 +4,7 @@ Simple function that format CPF using RegExp.
 
 # How to use
 
-Run the CPF_FORMATTER.sql file to create the function
+Run the CPF_FORMATTER.sql file to create the function on your database.
 
 Then you can test with the command below:
 
