@@ -1,6 +1,6 @@
 # Oracle Function CPF Formatter using RegExp
 
-Simple function that format CPF using Regexp.
+Simple function that format CPF using RegExp.
 
 # How to use
 
